@@ -1,5 +1,5 @@
 # 💫 About Me:
-# DevOps and cloud enthusiast completed BTech from JNTUH University. Eager to learn and contribute to open source projects.<br>Recently completed Internship at IIT-BOMBAY as DevOps Engineer<br><br>    AWS core services like EC2, S3, RDS, EKS, VPC, IAM<br>    Infrastructure-as-Code tools like Terraform and Ansible<br>    CI/CD pipelines using Jenkins, GitLab, CircleCI<br>    Monitoring stacks with Prometheus and Grafana<br>    Container technologies like Docker and Kubernetes<br>
+#DevOps and cloud enthusiast completed BTech from JNTUH University. Eager to learn and contribute to open source projects.<br>Recently completed Internship at IIT-BOMBAY as DevOps Engineer<br><br>    AWS core services like EC2, S3, RDS, EKS, VPC, IAM<br>    Infrastructure-as-Code tools like Terraform and Ansible<br>    CI/CD pipelines using Jenkins, GitLab, CircleCI<br>    Monitoring stacks with Prometheus and Grafana<br>    Container technologies like Docker and Kubernetes<br>
 
 
 ## 🌐 Socials:
