@@ -1,8 +1,10 @@
-name: Generate Snake 
 
-on:
+name: Snake Gif
+
+on: 
   schedule:
     - cron: "0 */6 * * *"
+
   workflow_dispatch:
 
 jobs:
@@ -12,26 +14,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
+    
     - uses: actions/checkout@v3
-
+    
     - uses: actions/setup-node@v3
       with:
         node-version: 16
-
+        
     - id: generate
       uses: Platane/snk@v3
       with:
-        github_user_name: purna16
-        
-      outputs:
-       gif-path:
-         description: 'Generated gif path'
-         value: ${{ steps.generate.outputs.gif-path }}
+         github_user_name: purna16
 
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-
+    - run: |
+        echo "Generated gif path is ${{ steps.generate.outputs.gif-path }}"
+    
     - uses: crazy-max/ghaction-github-pages@v3
       with:
         target_branch: output
