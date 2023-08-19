@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake 
 
 on:
   schedule:
@@ -19,15 +19,15 @@ jobs:
       with:
         node-version: 16
 
-    - uses: Platane/snk@v3
-      id: generate
+    - id: generate
+      uses: Platane/snk@v3
       with:
         github_user_name: purna16
         
       outputs:
-        dist/github-snake.svg
-        dist/github-snake-dark.svg?palette=github-dark
-        dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+       gif-path:
+         description: 'Generated gif path'
+         value: ${{ steps.generate.outputs.gif-path }}
 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
