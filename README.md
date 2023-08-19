@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=purna16&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
 ## Snake eating
-![snake gif](https://github.com/purna16/purna16/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
