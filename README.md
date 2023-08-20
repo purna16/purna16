@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/38b988c1f94cea8d6c68e5251dd5a09d38b4bf5761ebb3d667456b1b5fd9c74d/68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966)
+![MasterHead](https://granulate.io/wp-content/uploads/2019/12/CD-is-Sidetracking-Optimization-and-What-You-Can-Do-About-It.png)
 
 # 💫 About Me:
 ## DevOps and cloud enthusiast completed BTech from JNTUH University. Eager to learn and contribute to open source projects.<br>Recently completed Internship at IIT-BOMBAY as DevOps Engineer<br><br>    AWS core services like EC2, S3, RDS, EKS, VPC, IAM<br>    Infrastructure-as-Code tools like Terraform and Ansible<br>    CI/CD pipelines using Jenkins, GitLab, CircleCI<br>    Monitoring stacks with Prometheus and Grafana<br>    Container technologies like Docker and Kubernetes<br>
